@@ -1,2 +1,0 @@
-# CamundaDocker
-Camunda With Docker
